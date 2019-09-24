@@ -1,3 +1,6 @@
+//problem: to find the number in an array. Given data are array, size of array and key or number that we have to find using binary search.
+//Note: it will find number or key id number are in asending order. 
+
 #include <iostream>
 
 int binarySearch( int array[], int sizeOfArray, int key  ){

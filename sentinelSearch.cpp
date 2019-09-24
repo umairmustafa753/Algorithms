@@ -1,3 +1,5 @@
+//problem: to find the number in an array. Given data are array, size of array and key or number that we have to find using sentinel search.
+
 #include <iostream>
 
 int squentailSearch( int array[], int sizeOfArray, int key  ){
