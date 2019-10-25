@@ -9,8 +9,8 @@ void output( std::string **array, int rows, int colounms);
 //main
 int main(){
 
-    std:: string **array;
-    std:: string key, data;
+    std::string **array;
+    std::string key, data;
     std::ifstream fileData;
     int rows, colounms;
 
